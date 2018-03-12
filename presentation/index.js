@@ -15,9 +15,9 @@ require('../assets/serverless.css');
 
 const theme = createTheme(
   {
-    primary: '#665d60',
+    primary: '#cfc9cb',
     textColor: 'white',
-    headingColor: 'white'
+    headingColor: 'black'
   },
   {
     primary: 'Montserrat',
